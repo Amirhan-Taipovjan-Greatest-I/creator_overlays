@@ -1,0 +1,16 @@
+{
+  "key.category.creatoroverlays.creatoroverlays": "Creator Overlays",
+  "key.creatoroverlays.display_ro3overlay": "Өчтән өлеш кагыйдәсе капланышын күчерү",
+  "key.creatoroverlays.display_groverlay": "Алтын киселеш капланышын күчерү",
+  "key.creatoroverlays.display_vvoverlay": "Вертикаль видео капланышын күчерү",
+  "key.creatoroverlays.display_tpoverlay": "Күзәтеп тору нокталар капланышын күчерү",
+  "key.creatoroverlays.co_color": "Түгәрәк капланышының төсләре",
+  "key.creatoroverlays.co_rotateup":  "Түгәрәк капланышыныңны өскә бору",
+  "key.creatoroverlays.co_rotatedown": "Түгәрәк капланышыныңны аска бору",
+  "key.creatoroverlays.tp_up": "Күзәтеп тору ноктасын өскә күчү",
+  "key.creatoroverlays.tp_down": "Күзәтеп тору ноктасын аска күчү",
+  "key.creatoroverlays.tp_right": "Күзәтеп тору ноктасын уңга күчү",
+  "key.creatoroverlays.tp_left": "Күзәтеп тору ноктасын сулга күчү",
+  "key.creatoroverlays.co_modifier": "Үзгәртүче ачкычы"
+  
+}
